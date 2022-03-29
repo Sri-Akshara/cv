@@ -1,3 +1,14 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>address</title>
+  </head>
+  <body>
+    <p>address: 6/147 ADP avenue
+    <br />4th cross street, sithalapakkam <br> chennai - 600126</p>
+  </body>
+</html>
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Sri-Akshara/cv/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
